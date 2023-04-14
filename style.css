@@ -1,9 +1,14 @@
 body{
-    background: #5F5F5F;
+    background-image: url(Cuadros.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
 }
 main{
     padding: 20px;
     margin: 10px;
+    font-size: 20px;
 }
 
 .title{
@@ -11,7 +16,7 @@ main{
     text-align: center;
 }
 .humano{
-    color: #4B0075;
+    color: #AF00DE;
     text-align: center;
 }
 .contenido{
