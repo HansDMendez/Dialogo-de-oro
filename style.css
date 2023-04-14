@@ -16,10 +16,22 @@ main{
     text-align: center;
 }
 .humano{
-    color: #AF00DE;
+    color: #8300B7;
     text-align: center;
 }
 .contenido{
     text-align: justify;
     color: whitesmoke;
+}
+
+footer{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+footer img{
+    width: 200px;
+    border-radius: 50%;
+    border: 5px solid #8300B7;
+    margin: 20px;
 }
