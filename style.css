@@ -24,9 +24,11 @@ header img{
     color: gold;
     text-align: center;
 }
+
 .humano{
     color: #EB00E0;
     text-align: center;
+    font-size: 30px;
 }
 span{
     color: #FF0000;
